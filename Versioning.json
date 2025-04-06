@@ -57,18 +57,24 @@
     "InternalVersions": {
       "50614900": "2025.03.23"
     },
-    "ModVersion": "21.37..10"
+    "ModVersion": "21.37.10"
   },
   {
     "InternalVersions": {
       "50614900": "2025.03.23"
     },
-    "ModVersion": "21.37..11"
+    "ModVersion": "21.37.11"
+  },
+  {
+    "InternalVersions": {
+      "50614900": "2025.04.06"
+    },
+    "ModVersion": "21.37.12"
   },
   {
     "InternalVersions": {
       "50614900": "2025.03.23"
     },
-    "ModVersion": "21.37..12"
+    "ModVersion": "21.37.13"
   }
 ]
