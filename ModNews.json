@@ -1,7 +1,7 @@
 {
   News [
     {
-      Date 2025-06-27T125000Z,
+      Date 2025-06-27T12:50:00Z,
       Number 100001,
       ShortTitle TOU Mira v1.0.0,
       SubTitle Initial Release!,
@@ -13,7 +13,7 @@
       ]
     },
     {
-      Date 2025-06-30T125000Z,
+      Date 2025-06-30T12:50:00Z,
       Number 213700,
       ShortTitle ToUs v61.2,
       SubTitle Many Bugfixes!,
@@ -67,7 +67,7 @@
       ]
     },
     {
-      Date 2025-07-04T125000Z,
+      Date 2025-07-04T12:50:00Z,
       Number 213701,
       ShortTitle TOU Mira v1.0.2,
       SubTitle Bugfixes and Improvements galore!,
@@ -125,7 +125,7 @@
       ]
     },
     {
-      Date 2025-07-19T125000Z,
+      Date 2025-07-19T12:50:00Z,
       Number 213702,
       ShortTitle TOU Mira v1.0.5,
       SubTitle Road to TOU Mira v1.1.0!,
