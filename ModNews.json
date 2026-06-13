@@ -1,7 +1,7 @@
 {
   News [
     {
-      Date 2025-06-26,
+      Date 2025-06-27T125000Z,
       Number 100001,
       ShortTitle TOU Mira v1.0.0,
       SubTitle Initial Release!,
@@ -977,7 +977,7 @@
       ]
     },
     {
-      Date 2026-06-13,
+      Date 2026-06-13T125000Z,
       Number 100043,
       ShortTitle TOU Mira v1.6.3,
       SubTitle With Mira OR Reactivated,
