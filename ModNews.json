@@ -655,8 +655,8 @@
       Date 2026-01-19T125100Z,
       Number 100036,
       ShortTitle TOU Mira v1.5.2,
-      SubTitle No, not Miner itself.,
       Title More Miner Bugfixes,
+      SubTitle No, not Miner itself.,
       Text [
         bThis release includes bugfixes for a few minor issues.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
@@ -688,8 +688,8 @@
       Date 2026-02-08T125100Z,
       Number 100037,
       ShortTitle TOU Mira v1.5.3,
-      SubTitle Less bugs and more fixes!,
       Title Less Roaches in the Vents,
+      SubTitle Less bugs and more fixes!,
       Text [
         bThis release includes bugfixes for a handful of things, and also improves anticheat a bit.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
@@ -735,8 +735,8 @@
       Date 2026-02-11T125100Z,
       Number 100038,
       ShortTitle TOU Mira v1.5.4,
-      SubTitle You waste our time, we waste yours.,
       Title Critical Bugfixes and Improvements,
+      SubTitle You waste our time, we waste yours.,
       Text [
         bThis release is focused on fighting against hackers who continuously barge into lobbies to cause chaos. Normally our updates aren't this soon but we felt the need to address this immediately.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
@@ -763,42 +763,51 @@
       Date 2026-03-21T125100Z,
       Number 100039,
       ShortTitle TOU Mira v1.5.9 Beta 1,
-      SubTitle - Shakespeare, probably.,
       Title A new Mira update This can't be!,
+      SubTitle - Shakespeare, probably.,
       Text [
         bThis release changes a LOT. As a result, this has taken longer than expected, and we are fairly confident that most of the mod is now bug free. For the sake of everything though, v1.6.0 will not be released until we clear up most of the bugs that we can find.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
         nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestag1.5.9TOU Mira v1.5.9 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
+        
         nnrsize=105%Critical Changessize,
         n- All Role List buckets are reset! The options are now unable to be affected by the addition of extra role buckets.,
         n- Kills are now confirmed by the host before they are visible for everyone else. This means that there are no more death desyncs.,
+
         nnrsize=105%Main Changessize,
         n- Medium has been fully reworked now.,
         n- A new Impostor Power role has been added Herbalist!,
         n- The wiki now has a way to view game settings and includes a Terminology page.,
         n- Ghost roles are now in an Afterlife category rather than Crew Investigative or Neutral Evil.,
         n- Vanilla roles have their own colors now, and are fully integrated into the mod.,
+
         nnrsize=105%Known Bugssize,
         n- Operative and Sentry Portable cameras are unusable on Android.,
         n- Some roles (such as Hunter) are known to have issues on Android, for reasons unknown to us.,
         n- Private chats are invisible by players killed mid-meeting.,
         n- Neutral Wildcard may duplicate the amount of each neutral present if any selected slots are wildcards.,
+
         nnrsize=105%Possibly Fixed Bugssize,
         n- Medic Shield is no longer ignored if it is supposed to break.,
+
         nnrsize=105%Crewmate Role Bugfixessize,
         n- Monarch's Round One setting is properly checked.,
+
         nnrsize=105%Neutral Role Bugfixessize,
         n- Amnesiac properly removes their win condition information from the task tab.,
         n- Doomsayer causes of death appear consistently now.,
         n- Spectre no longer prevents Neutral Evils from winning.,
+
         nnrsize=105%Impostor Role Bugfixessize,
         n- Hypnotist no longer breaks Mix-Up or kill animations,
         n- Ambusher is no longer caught by Investigator footprints,
         n- Traitor is no longer unguessable if Crewpostor is disabled.,
         n- Players controlled by a Puppeteer can no longer no-clip when they're too close to the wall,
         n- Grenadier's flash no longer prevents abilities from being used. (besides reports),
+
         nnrsize=105%Modifier Bugfixessize,
         n- Lovers can no longer chat when under control,
+
         nnrsize=105%Other Bugfixessize,
         n- Ghostwalker roles spawn properly on Submerged,
         n- Players are no longer kicked out of vents that there were no longer present in.,
@@ -808,13 +817,16 @@
         n- dlekS will no longer cause the Create Game Menu to freeze.,
         n- Airship is no longer shown when dlekS is actually selected.,
         n- Better Skeld's Vent Network connects the Navigation vent to Weapons properly.,
+
         nnrsize=105%Local Setting Changessize,
         n- Added Role Icon on Role Tab toggle.,
         n- Added Rainbow color as Fortegreen toggle.,
+
         nnrsize=105%Chat Changessize,
         n- When a player is kicked for missing a mod, the host is now properly notified.,
         n- Lobby Rules Messages are now titled Lobby Rules, instead of System.,
         n- Added info command for roles with meeting info. (PR #142),
+
         nnrsize=105%Other Improvementssize,
         n- More roles have role banners in the game options pane.,
         n- More role and modifier icons have been redrawn in a higher quality.
@@ -824,12 +836,13 @@
       Date 2026-04-17T125100Z,
       Number 100040,
       ShortTitle TOU Mira v1.6.0,
-      SubTitle - Said the Egotist,
       Title It wasn't me Officer, I swear!,
+      SubTitle         - Said the Egotist,
       Text [
         bFinally, Mira is updated to v1.6.0! Thanks for sticking around even when the mod has been in some bad trouble in terms of bugs. Unfortunately, this release isn't fully bugfree, but many other bugs have been fixed for good.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
         nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestag1.6.0TOU Mira v1.6.0 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
+
         nnrsize=105%Known Bugssize,
         n- Private chats are invisible to players killed mid-meeting.,
         n- Private chats for living players get deleted when a new public chat message is added.,
@@ -837,9 +850,11 @@
         n- Neutral Wildcard may duplicate the amount of each neutral present if any selected slots are wildcards.,
         n- Ghostwalkers are sometimes unable to use the Zipline, Platform, or Ladders.,
         n- When Haunter finishes their tasks, sometimes the Impostors will not get an arrow to the Haunter, essentially screwing them over.,
+
         nnrsize=105%Known Hide and Seek Bugssize,
         n- The Seeker is missing animations for the hiders,
         n- Hiders ignore their vent uses,
+
         nnrsize=105%Crewmate Role Bugfixessize,
         n- Medic can no longer hand out shields again when settings forbid them.,
         n- Medic shields are destroyed properly if the setting is set.,
@@ -849,30 +864,36 @@
         n- Operative and Sentry's Portable cameras are now functioning on Android.,
         n- Medium properly hides pets when anonymous players are enabled.,
         n- Monarch can properly knight regardless of the First Round Use setting.,
+
         nnrsize=105%Impostor Role Bugfixessize,
         n- Shapeshifter's name is properly changed.,
         n- Parasite victims properly die when the time runs out.,
         n- Hypnotist's Hysteria can no longer softlock the player upon death.,
         n- Warlock's Burst Kill works again.,
         n- Herbalist's herbs reset properly across rounds.,
+
         nnrsize=105%Neutral Role Bugfixessize,
         n- First-Round settings no longer interfere with Amnesiac,
         n- Spectre can spook properly again.,
         n- Fairy can no longer target Neutral Outliers.,
+
         nnrsize=105%Other Bugfixessize,
         n- When Crewpostor replaces a real Impostor, the player being replaced gets a proper role.,
         n- Spectators that join without running spec are no longer half-dead.,
+
         nnrsize=105%Changessize,
         n- Current Region is now displayed in the lobby.,
         n- Trapper's feedback now includes Hyperlinks.,
         n- Many game settings are re-organized,
         n- April Fools mode is temporarily removed from the main menu for the sake of stability.,
+
         nnrsize=105%Improvementssize,
         n- Egotist and Crewpostor labels are shortened on player names.,
         n- The Wiki now allows searching by faction  alignment.,
         n- Disconnected players are properly kept displayed in the meeting and in the end game summary.,
         n- Camo Comms, Mix-Up, and Vent System checks are far more optimized now, reducing lagspikes and general instability.,
         n- Plumber now has a Flush duration, blocking any vents in use for a set duration.,
+
         nnrsize=105%Additionssize,
         n- Cleaned bodies can now be set to display as Missing, Disconnected, or Dead, applicable to Viper, Rotting, Chef, and Janitor.,
         n- Kill Animation background can now optionally be colored based on the killer's Faction or Role Color.,
@@ -885,12 +906,13 @@
       Date 2026-05-02T125100Z,
       Number 100041,
       ShortTitle TOU Mira v1.6.1,
-      SubTitle The Mayor is jubilant as ever, look at him go!,
       Title I vote, therefore I Mayor,
+      SubTitle The Mayor is jubilant as ever, look at him go!,
       Text [
         bFinally, Mira is updated to v1.6.1! This build fixes quite a few issues, so we hope you enjoy. Many remaining bugs will be fixed in v1.7.0, as there will be a complete overhaul to systems in the background.b,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
         nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestag1.6.1TOU Mira v1.6.1 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
+
         nnrsize=105%Known Bugssize,
         n- Controlled players (via ParasitePuppeteer) appear to be stuck in a walk cycle when they are walking onto a wall, showing they are under control.,
         n- Neutral Wildcard may duplicate the amount of each neutral present if any selected slots are wildcards.,
@@ -898,19 +920,24 @@
         n- When Haunter finishes their tasks, sometimes the Impostors will not get an arrow to the Haunter, essentially screwing them over.,
         n- Pets aren't removed based on settings properly.,
         n- Medic Shield still doesn't get shattered properly with the settings.,
+
         nnrsize=105%Known Hide and Seek Bugssize,
         n- The Seeker is missing animations for the hiders,
         n- Hiders ignore their vent uses,
+
         nnrsize=105%Crewmate Role Bugfixessize,
         n- Officer no longer breaks across game sessions.,
+
         nnrsize=105%Neutral Role Bugfixessize,
         n- Executioner Torment kills players again.,
         n- Jester Haunt kills players again.,
         n- Mercenary protection is removed upon their death.,
         n- Arsonist interactions contribute towards the douse limit.,
+
         nnrsize=105%Impostor Role Bugfixessize,
         n- Grenadier flash no longer breaks kill screens and meetings.,
         n- Dragging Viper  Rotting bodies no longer breaks Undertaker.,
+
         nnrsize=105%Other Bugfixessize,
         n- Impostor replaced by a Crewpostor can no longer see their previous task text.,
         n- Camo Comms no longer shows other player names when revived.,
@@ -919,15 +946,18 @@
         n- Players disconnecting from the lobby no longer breaks the player count.,
         n- Disconnected players no longer leak their role color.,
         n- Submerged and Level Impostor no longer break when loading base game map assets.,
+
         nnrsize=105%Changessize,
         n- dlekS tooltip in the Create Game Menu is legible now.,
         n- Imitator now shows (Imi) next to their name while imitating roles.,
         n- Zoom and Wiki buttons can be changed to be below or next to the Settings  Chat button.,
         n- Amnesiac's Assassin configuration is improved.,
         n- Lobby view pane has been adjusted to be smaller.,
+
         nnrsize=105%Additionssize,
         n- Keybind Actions are now available under the local settings, primarily for Android players.,
         n- The host can now run kick and ban mid-game (PR #170 by VoidicChaos),
+
         nnrsize=105%Improvementssize,
         n- Assassin is now shown as a modifier, unless Double Shot is present, with a better wiki description.,
         n- Misguessing now shows whowhat was attempted to be guessed in the end game summary (PR #173 by DivaniNL)
@@ -937,39 +967,48 @@
       Date 2026-05-10T125100Z,
       Number 100042,
       ShortTitle TOU Mira v1.6.2,
-      SubTitle With more stability to go with it!,
       Title Chat and Yap all your want,
+      SubTitle With more stability to go with it!,
       Text [
         bMira has now been updated once again, fixing crucial bugs and clearing up even more new-found bugs!b,
         nAs a way to thank you all for sticking with us, maybe check out the goodies in the Pets tag, we're sure you'll enjoy it.,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
         nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestag1.6.2TOU Mira v1.6.2 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
+
         nnrsize=105%Known Bugssize,
         n- Neutral Wildcard may duplicate the amount of each neutral present if any selected slots are wildcards.,
         n- Ghostwalkers are sometimes unable to use the Zipline, Platform, or Ladders.,
+
         nnrsize=105%Known Hide n Seek Bugssize,
         n- The Seeker is missing animations for the hiders.,
         n- Hiders ignore their vent uses.,
+
         nnrsize=105%Crewmate Role Bugfixessize,
         n- Medium's Spirit movement no longer carries over from Time Lord rewinds.,
         n- Killers now get arrows that point to the Haunter when they complete their tasks.,
         n- Medic no longer breaks when a player is protected by multiple Medics. Only one Medic will be flashed at a time.,
+
         nnrsize=105%Neutral Role Bugfixessize,
         n- Glitch no longer resets mimic cooldowns for other Glitches.,
+
         nnrsize=105%Impostor Role Bugfixessize,
         n- Venerer no longer displays its effects as Visual modifiers.,
+
         nnrsize=105%Other Bugfixessize,
         n- Changing the UI scale mid-game no longer breaks the UI at the top right.,
         n- Chat messages are now capped to a maximum of 20 public and 20 private chat messages to prevent crashing.,
         n- Roles are no longer revealed immediately upon death.,
         n- Pets are removed based on settings properly.,
         n- Celebrity's cause of death now displays all causes of death.,
+
         nnrsize=105%Changessize,
         n- Monarch will no longer be able to change their shield appearance, and is now always Grey. A future patch will allow further configuration, but not to the same degree as before with Warden  Cleric flashing.,
         n- Seer can no longer compare revealed players.,
+
         nnrsize=105%Improvementssize,
         n- It is now possible to disable any host keybind if you tend to misclick.,
         n- Survivor, Fairy, and 1st Round Shield protection will flash grey, as a way to not appear unresponsive.,
+
         nnrsize=105%Additionssize,
         n- Two custom pets have been added,
         n- Game Mechanic Option All Shields Flash Anonymously.,
@@ -977,16 +1016,17 @@
       ]
     },
     {
-      Date 2026-06-13T125000Z,
+      Date 2026-06-13T125100Z,
       Number 100043,
       ShortTitle TOU Mira v1.6.3,
-      SubTitle With Mira OR Reactivated,
       Title Play it your way.,
+      SubTitle With Mira OR Reactivated,
       Text [
         bMira has been updated for the latest release of Among Us, alongside TOU Reactivated!b,
         nYou may now choose to use link=httpsgithub.comAU-AvengersTown-Of-Us-ReactivatedTOU Reactivatedlink again if you so wish, but Mira will get major content updates, unlike Reactivated.,
         nnThe Mira team really appreciates all of your support, thank you so much for playing the mod!,
         nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestag1.6.3TOU Mira v1.6.3 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
+
         nnrsize=105%Crewmate Role Bugfixessize,
         n- Officer now sees Prosecutor as a valid killer.,
         n- Monarch is no longer immune to basic interactions when they have a shield.,
@@ -995,25 +1035,31 @@
         n- Engineer and Plumber interact with vents in a more optimized fashion. (PR #190 by @TheDavSmasher),
         n- Plumber barricades prevent all venters from entering properly. (PR #192 by @TheDavSmasher),
         n- Sentry Cameras are no longer placed below the map.,
+
         nnrsize=105%Neutral Role Bugfixessize,
         n- Arsonist douse count is no longer more than intended.,
         n- Executioner can no longer torment when their target becomes evil.,
+
         nnrsize=105%Impostor Role Bugfixessize,
         n- Shapeshifter now inherits fake shields on players, like how Morphling  Glitch do.,
         n- Parasite and Puppeteer can interact with Ladders, Platforms, and Ziplines properly. (PR #176 by @DrFreezyYT),
         n- Pet Button no longer interferes with forced player map interactions.,
+
         nnrsize=105%Other Bugfixessize,
         n- Pets tab now says Pets rather than Hats.,
         n- Directly clicking on security utilities like Admin is no longer possible if task requirements aren't met.,
         n- End Game Timer is no longer broken.,
+
         nnrsize=105%Changessize,
         n- Miner now places Polus vents and has an animation paired with it.,
         n- By default, Sonar now uses Heartbeats instead of arrows to keep track of players.,
         n- Haunter now marks players with a dark red name when they are revealed.,
+
         nnrsize=105%Improvementssize,
         n- Glitch, Morphling, and Swooper now have better vent settings.,
         n- UI changes are far more optimized now.,
         n- Destroyed animations are now cleared from memory properly.,
+
         nnrsize=105%Additionssize,
         n- TOU Mira Legacy is now a part of the main mod.,
         n- Role Name placement is now configurable in terms of size and position.,
