@@ -1,0 +1,72 @@
+[
+  {
+    "x": 0.0,
+    "y": -0.55,
+    "z": -0.8,
+    "colorId": 8,
+    "name": "sdfxf31",
+    "tag": "developer",
+    "tagColor": "#aa00ffff",
+    "hatId": "hats0147",
+    "skinId": "skin_BusinessFemskin",
+    "visorId": "visor_claws_knife",
+    "petId": "",
+    "namePlateId": ""
+  },
+  {
+    "x": 1.2,
+    "y": -0.55,
+    "z": -0.8,
+    "colorId": 10,
+    "name": "NexZUS",
+    "tag": "toster",
+    "tagColor": "#9e9e9e",
+    "hatId": "hat_madeline",
+    "skinId": "skin_MadelineSkinskin",
+    "visorId": "visor_Blush",
+    "petId": "pet_Strawb",
+    "namePlateId": ""
+  },
+  {
+    "x": -1.2,
+    "y": -0.55,
+    "z": -0.8,
+    "colorId": 13,
+    "name": "bup",
+    "tag": "tester",
+    "tagColor": "#9e9e9e",
+    "hatId": "hat_pusheenPinkHat",
+    "skinId": "skin_halospartan",
+    "visorId": "visor_hl_nothoughts",
+    "petId": "pet_Crewmate",
+    "namePlateId": ""
+  },
+  {
+    "x": -2.4,
+    "y": -0.55,
+    "z": -0.8,
+    "colorId": 7,
+    "name": "Sansgranie",
+    "tag": "tester",
+    "tagColor": "#9e9e9e",
+    "hatId": "hats0133",
+    "skinId": "skin_Sanskin",
+    "visorId": "visor_BubbleBumVisor",
+    "petId": "pet_napstamate",
+    "namePlateId": ""
+  },
+  {
+    "x": 2.4,
+    "y": -0.55,
+    "z": -0.8,
+    "colorId": 29,
+    "name": "Nakl",
+    "tag": "tester",
+    "tagColor": "#9e9e9e",
+    "hatId": "misc0000",
+    "skinId": "skin_BowKidskin",
+    "visorId": "visor_Stickynote_Green",
+    "petId": "",
+    "namePlateId": ""
+  }
+]
