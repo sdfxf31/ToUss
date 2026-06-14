@@ -208,7 +208,7 @@
         n- Przejscie na najnowsza wersje + male poprawki,
         n- Zmieniono troche wyszukiwarke rol,
         n- Help Chat przesuwa sie by nic nie zaslaniac,
-        rsize=205%n- Troche inny wyglad dla ustawien hostasize,
+        n- Troche inny wyglad dla ustawien hosta,
         <#>,
         nn<#32CD32><b>Poprawki</b><#808080>,
         n- Poprawiono straszny stary system losowego tekstu na meetingu ale dalej dziala na bazie czasu ;-;,
@@ -355,6 +355,7 @@
         <#>,
         nn<#FFD700><b>A z zmian :3</b><#808080>,
         n- Nowy changeelog, yaaaaaay,
+        n- ddd <link=https://github.com/sdfxf31/ToUss> d ddddddd </link>,
         <#>
       ]
     }
