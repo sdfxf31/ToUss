@@ -59,7 +59,7 @@
       Date 2025-08-15T12:50:00Z,
       Number 213714,
       ShortTitle ToUs v63.#,
-      SubTitle Dodanie w podwersjach 63,
+      SubTitle Ogromny Update,
       Title Town of Uss v21.37.63.#,
       Text [
         bNowoscib,
@@ -105,7 +105,7 @@
       Date 2025-08-26T12:50:00Z,
       Number 213715,
       ShortTitle ToUs v64.#,
-      SubTitle Wszystko dodane w wersjach 64,
+      SubTitle QoL,
       Title Town of Uss v21.37.64.#,
       Text [
         bNowoscib,
@@ -136,7 +136,7 @@
       Date 2025-08-21T12:50:00Z,
       Number 213716,
       ShortTitle ToUs v65.#,
-      SubTitle Wszystko dodane w wersjach 65,
+      SubTitle Mini Update,
       Title Town of Uss v21.37.65.#,
       Text [
         bNowoscib,
@@ -153,7 +153,7 @@
       Date 2025-11-21T12:50:00Z,
       Number 213717,
       ShortTitle ToUs v66.#,
-      SubTitle Wszystko dodane w wersjach 66,
+      SubTitle Menu Update,
       Title Town of Uss v21.37.66.#,
       Text [
         bNowoscib,
@@ -184,7 +184,7 @@
       Date 2026-01-6,
       Number 213718,
       ShortTitle ToUs v67.#,
-      SubTitle Wszystko dodane w wersjach 67,
+      SubTitle Update z Chatami,
       Title Town of Uss v21.37.64.#,
       Text [
         bNowoscib,
@@ -229,7 +229,7 @@
       Date 2026-02-28T12:50:00Z,
       Number 213719,
       ShortTitle ToUs v68.#,
-      SubTitle Wszystko dodane w wersjach 68,
+      SubTitle Ogolnie QoL,
       Title Town of Uss v21.37.68.#,
       Text [
         bNowoscib,
@@ -265,7 +265,7 @@
       Date 2026-03-21T12:50:00Z,
       Number 213720,
       ShortTitle ToUs v69.#,
-      SubTitle Wszystko dodane w wersjach 69,
+      SubTitle Rocznica Yaaay,
       Title Town of Uss v21.37.69.#,
       Text [
         bNowoscib,
@@ -301,7 +301,7 @@
       Date 2026-06-14T12:50:00Z,
       Number 213721,
       ShortTitle ToUs v70.#,
-      SubTitle Wszystko dodane w wersjach 70,
+      SubTitle Duzio Nowosci :3,
       Title Town of Uss v21.37.70.#,
       Text [
         bNowoscib,
@@ -335,13 +335,14 @@
     {
       Date 2026-06-14T12:50:00Z,
       Number 213722,
-      ShortTitle New Update,
-      SubTitle ,
+      ShortTitle Latest Update,
+      SubTitle W sumie to same modyfikatory,
       Title Najnowszy Update,
       Text [
         bZ nowosci to:b,
         n- Nowy modyfikator, Monochromatic,
         n- Nowy modyfikator Haunted,
+        n- Update do najnowszej wersjii,
         ,
         nnbA z zmian :3b,
         n- Nowy changeelog, yaaaaaay
