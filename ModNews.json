@@ -1,199 +1,203 @@
 {
   News [
     {
-      Date 2025-06-27T12:50:00Z,
-      Number 100001,
-      ShortTitle TOU Mira v1.0.0,
-      SubTitle Initial Release!,
-      Title Town of Us Mira v1.0.0,
-      Text [
-        rb The initial release!b,
-        nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestagv1.0.0TOU Mira v1.0.0 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
-        nn THIS MOD IS IN PUBLIC BETA. EXPECT BUGS AND ISSUES.
-      ]
-    },
-    {
-      Date 2025-06-30T12:50:00Z,
+      Date 2025-06-06T125000Z,
       Number 213700,
       ShortTitle ToUs v61.2,
-      SubTitle Many Bugfixes!,
-      Title Town of Us Mira v1.0.1,
+      SubTitle Wsm Tylko Dla Dronera,
+      Title Town of Uss v21.37.61.2,
       Text [
-        rb Update now Available!b,
-        nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestagv1.0.1TOU Mira v1.0.1 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
-        nnrsize=105%Crewmate Role Bugfixessize,
-        n- Detective report settings are now toggled correctly,
-        n- Haunter can open Decontam doors again!,
-        n- Investigator footprints are hidden in comms sabotage,
-        n- Prosecutor's prosecution is always anonymous,
-        n- Prosecutor can no longer pros the skip button,
-        n- If you are jailed and your Jailor dies mid-meeting, your messages are not displaced into public chat,
-        n- Altruist revives dead lovers properly,
-        n- Imitator Mayor no longer reveals themselves to the crew as Imitator,
-        n- Imitator role change rpc has been fixed, shouldn't result in errors anymore,
-        n- Medium arrows are removed after a meeting,
-        nnrsize=105%Neutral Role Bugfixessize,
-        n- Inquisitor checks if all their targets have died to determine if the game will end or not,
-        n- Inquisitor Inquire uses no longer drain if someone was picked during the round already,
-        n- Inquisitor report no longer duplicates the last role,
-        n- Phantom will spawn correctly if Haunter failed to spawn,
-        n- Phantom can open Decontam doors again!,
-        n- Soul Collected players will now hide in comms correctly,
-        nnrsize=105%Impostor Role Bugfixessize,
-        n- A player that's destined to become Traitor no longer holds the game if they are dead,
-        nrsize=105%Modifier Bugfixessize,
-        n- Celebrity no longer sends a report message when they are exiled,
-        n- In Freeplay, removing the Shy modifier no longer keeps your player or pet invisible,
-        n- Multitasker no longer makes security minigames transparent,
-        n- Lovers die together and revive together correctly,
-        nnrsize=105%Other Bugfixessize,
-        n- Spamming to join into a lobby is no longer possible and will not queue a join attempt repeatedly,
-        n- Zooming in freeplay no longer shows broken shadows, instead opting to hide them,
-        n- Messages with 0 characters will no longer be parsed through private chats,
-        n- Long mode no longer trips up the game,
-        nnrsize=105%Improvementssize,
-        n- The setname command now has a limit of 12 characters and removes tmp text,
-        n- Lovers chatbox is hidden in the exile screen,
-        n- Colorblind text is now always capitalized in all menus,
-        n- Tawny and Gold color names have been swapped around,
-        n- More errors have been cleared up, so there will be less filler in logs and the game will be smoother,
-        n- Wiki hides the host player UI in the lobby,
-        nnrsize=105%Additionssize,
-        n- Jailee Can Use Public Chat toggle,
-        n- New Colors!,
-        n- Long Horse April Fools (bLong and Long Horse have issues with cosmetics, be aware of thisb),
-        nnrsize=105%Removalssize,
-        n- sethost command is being removed as it just causes trouble
+        bTylko jedno noweb,
+        - Droner moze uzywac kamer gdziekolwiek chce :D
       ]
     },
     {
-      Date 2025-07-04T12:50:00Z,
+      Date 2026-06-07T125000Z,
       Number 213701,
-      ShortTitle TOU Mira v1.0.2,
-      SubTitle Bugfixes and Improvements galore!,
-      Title Town of Us Mira v1.0.2,
+      ShortTitle ToUs v61.3,
+      SubTitle ,
+      Title Town of Uss v21.37.61.3,
       Text [
-        rb Update now Available!b,
-        nnThis update includes numerous bugfixes and improvements, and should hopefully clear up the recent crashes happening on Epic Games. As always, if you encounter a bug, feel free to make a bug report!,
-        nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestagv1.0.2TOU Mira v1.0.2 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
-        nnrsize=105%Crewmate Role Bugfixessize,
-        n- Investigator footprints hide in comms properly and no longer error out,
-        n- Deputy camped notification should be sent to the correct player now,
-        n- Sheriff correct kills are checked correctly,
-        n- Sheriff no longer continues the game on misfire,
-        n- Jailee Can't Use Public Chat option has been fixed,
-        n- Prosecutor continues game,
-        n- Infinite Engineer vent uses no longer shows uses as 0,
-        n- Imitator should no longer be able to change roles if they have turned vamp or traitor,
-        n- EngineerPlumber can no longer access vents through walls,
-        n- Amnesiac and Imitator no longer interfere when selecting roles,
-        nnrsize=105%Neutral Role Bugfixessize,
-        n- Pestilence has impostor vision now,
-        n- Hacking a player should no longer affect meeting or ejection screen kills,
-        nnrsize=105%Impostor Role Bugfixessize,
-        n- Hypnotised players should no longer be able to see player names,
-        n- Dead traitor should no longer be able to change their role,
-        nnrsize=105%Modifier Bugfixessize,
-        n- Shy no longer applies onto PhantomHaunter,
-        n- Egotist can no longer be traitor,
-        n- Egotist cannot leave the game if lovers are alive,
-        n- Egotists no longer show correct or incorrect kills,
-        nnrsize=105%Other Bugfixessize,
-        n- Vent offset no longer shows a timer,
-        n- If impostors cannot see each others' roles but know who they are, they can see each other in the team reveal properly,
-        nnrsize=105%Improvementssize,
-        n- Cleric now tells you if the player you cleansed had no negative effects,
-        n- Task count is shown on the Taskbar tab itself,
-        n- FactionTeam modifiers are shown below role description in the role reveal screen,
-        n- Satellite now shows dead bodies on the map,
-        n- Tracker arrow delay and Shy options can go down to zero seconds,
-        n- End Game Timer options can go up to 30 minutes,
-        n- Sheriff Shoot, Button Barry, and Satellite Broadcast can be used immediately in Freeplay regardless of Round One settings,
-        n- Meeting kill animations are instant when there's less than 6 players,
-        n- End Game checks were moved around and should fix crashes on Epic Games,
-        nnrsize=105%Additionssize,
-        n- End Game Timer now allows switching between Game Draw and Impostor Win on the timer ending,
-        n- Scavenger now gets a HnS-like pop-up for their next target,
-        n- Amnesiac gives feedback and will notify you when trying to remember Amnesiac,
-        n- Better Airship options,
-        n- Arrow Style option Toggle between the default look, the arrow with a dark glow, a color glow, or use the old task arrows if you wish,
-        nnrsize=105%Changessize,
-        n- Inquisitor's Stall Game option is now only applicable in 1v1s or 2v1s,
-        n- Assassin's Guess Spy  Investigator Modifier options are now merged into one option that includes all Crewmate Utility Modifiers in general,
-        n- Just like in TOUR, all button timers will now pause in vents (besides Glitch's buttons),
-        n- Imitator can no longer pick up Politician or Mayor (because they can stay as those roles forever)
+        bZ nowych tob,
+        n- Remodel dronow i przyciskow Dronera,
+        nbA z Poprawekb,
+        n- Oraz naprawiono bug z zostaniem drona po smierci Dronera
       ]
     },
     {
-      Date 2025-07-19T12:50:00Z,
+      Date 2026-06-08T125000Z,
       Number 213702,
-      ShortTitle TOU Mira v1.0.5,
-      SubTitle Road to TOU Mira v1.1.0!,
-      Title Town of Us Mira v1.0.5,
+      ShortTitle ToUs v61.4,
+      SubTitle ,
+      Title Town of Uss v21.37.61.4,
       Text [
-        rb Update now Available!b,
-        nnb This update has a handful of changes, improvements, and bespeciallyb bugfixes compared to the v1.0.2 release. We are aware of bugs regarding Mini, PhantomHaunter, and a few others.b,
-        nThe original intention was to release v1.1.0 as a full-on update, but due to the amount of bugs players have been dealing with for the past weeks, we've decided to split off this release and the content update as v1.0.5 and v1.1.0 respectively! The wait will be more than justified with the new roles intended to be implemented, just bare with us.,
-        nnAgain, the Mira team really appreciates all of your support, thank you so much for playing the mod!,
-        nn★ link=httpsgithub.comAU-AvengersTOU-Mirareleasestagv1.0.5TOU Mira v1.0.5 Downloadlink ★ link=httpsau-avengers.github.iodocs.toum.ggMod Guide & Detailslink ★,
-        nnrsize=105%Crewmate Role Bugfixessize,
-        n- Rainbow Tracker arrows will be rainbow instead of black,
-        n- Mayor is no longer able to become Traitor,
-        n- Politician reveal no longer works when only one crewmate is campaigned,
-        n- Prosecutor no longer ends meetings instantly,
-        n- Oracle Blessing stops assassin guessing,
-        n- Footprint intervals are now in time, not distance,
-        n- Footprints are layered correctly,
-        n- If specified, trapper uses are reset properly after each round,
-        n- If the Jailee Can Use Public Chat option is disabled, the Jailee can speak properly in the private chatbox,
-        n- If a Deputy camps a player in a 1v2, and the camped player dies, Deputy continues the game correctly,
-        n- Deputies no longer hold onto the killer information from the previous round.,
-        nnrsize=105%Neutral Role Bugfixessize,
-        n- Amnesiac takes away unique roles correctly again,
-        n- Plaguebearer infections do not spread from meeting kills.,
-        n- Executioner and Fairy have better checks for their targets dying.,
-        n- If an Amnesiac was a target for an Inquisitor, and they pick up the role of said Inquisitor, their role will be removed from the list of heretics.,
-        nnrsize=105%Impostor Role Bugfixessize,
-        n- Hypnotist can no longer hypnotize once Mass Hysteria is in action,
-        n- If the Hypnotist dies or disconnects, then the hypnosis wears off,
-        n- Egotist and Executioner Target should no longer be able to become Traitor,
-        n- Traitor spawn is fixed,
-        n- Traitor's cooldown no longer drops down to 10 seconds when changing their role,
-        n- Bombs no longer trigger within meetings,
-        n- Bombs will appear for teammates correctly,
-        n- Miner vents are fixed in Weapons (Polus) and can no longer be placed inside of doors,
-        nnrsize=105%Modifier Bugfixessize,
-        n- Lover death checks run on the host, removing the need for two separate death checks.,
-        n- If a Scavenger has a lover, they will no longer target them.,
-        n- It is no longer possible to have a neutral lover if the setting is disabled.,
-        nnrsize=105%Other Bugfixessize,
-        n- Rainbow text color in the host panel and the chat pop-ups are rainbow instead of black now.,
-        n- Death Valley task is now accounted for correctly, fixes red map and the task being inaccessible.,
-        n- It is no longer possible to get Traitor, Lovers, Pestilence, or a killing target as Fairy when the respective options are set to 0%.,
-        n- Hidden shields should no longer appear in the modifiers hud.,
-        n- The offset button no longer shows a comms symbol when comms are off.,
-        n- Setting the amount of impostors via role list overrides vanilla settings now.,
-        n- If you get shot out of a meeting, your buttons should no longer show up,
-        n- Game will no longer end within the exile screen (which affected Prosecutor in a 1v1),
-        nnrsize=105%Improvementssize,
-        n- Task progress now shifts from red, to yellow, to green.,
-        n- Modifier assignment is now shuffled instead of being alphabetical.,
-        n- There is now a tally for the amount of tabs in the cosmetics menu.,
-        n- In meetings, certain roles will show information, such as Doomsayer and Vigi seeing guesses neededavailable, or for prosecutor,
-        nnrsize=105%Additionssize,
-        n- Lovers can still kill each other by default, but this can be changed via a toggle.,
-        n- Cause of death is shown on the endscreen and in-game,
-        n- Added an option for meeting deaths to add a certain amount of time to the vote timer,
-        n- Added back Fairy Target Knows option,
-        nnrsize=105%Changessize,
-        n- Jester Haunt, Executioner Torment, and Phantom Spook no longer appear on round start; instead, a new button will appear to haunttormentspook a player of your choice.,
-        n- Morphling Sample has no cooldown anymore,
-        n- Escapist Mark has no cooldown anymore,
-        n- Investigator Footprints are now closer to how TOUR Footprints appear and act,
-        n- Eclipsed and Flashed players can use their abilities again, but may not report bodies,
-        n- Double Shot is now an Assailant Modifier, applying to Impostors as well as Neutral Killers,
-        nnrsize=105%Removalssize,
-        n- Impostors both being lovers can no longer happen as it simply life-links impostors to no benefit.
+        bNowoscib,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-09T125000Z,
+      Number 213703,
+      ShortTitle ToUs v61.5,
+      SubTitle ,
+      Title Town of Uss v21.37.61.5,
+      Text [
+        bNowoscib,
+        n- Drona teraz kontroluje sie strzalkami,
+        nbZmianyb,
+        n- Zwiekszono maksymalny mozliwy zasieg drona i komunikat wizualny,
+        n- Zmieniono opis Dronera
+      ]
+    },
+    {
+      Date 2026-06-10T125000Z,
+      Number 213704,
+      ShortTitle ToUs v61.6,
+      SubTitle ,
+      Title Town of Uss v21.37.61.6,
+      Text [
+        bNowoscib,
+        n- Nie da sie korzystac z drona podczas sabotazu komunikacji,
+        nbZmianyb,
+        n- Troche zmieniony Change Log
+      ]
+    },
+    {
+      Date 2026-06-10T125000Z,
+      Number 213705,
+      ShortTitle ToUs v61.7,
+      SubTitle ,
+      Title Town of Uss v21.37.61.7,
+      Text [
+        bNowoscib,
+        n- Dodano miganie tekstu na ekranie kontroli drona podczas commsow,
+        nbZmianyb,
+        n- Zmieniono czcionke na ekranie kontroli drona podczasz commsow
+      ]
+    },
+    {
+      Date 2026-06-11T125000Z,
+      Number 213706,
+      ShortTitle ToUs v61.8,
+      SubTitle ,
+      Title Town of Uss v21.37.61.8,
+      Text [
+        bZmianyb,
+        n- Predkosci drona juz nie da sie zmieniac w ustawieniach,
+        bPoprawkib,
+        n- Dron porusza sie plynniej dla innych,
+        n- Poprawiono wyglad monitora drona
+      ]
+    },
+    {
+      Date 2026-06-11T125000Z,
+      Number 213707,
+      ShortTitle ToUs v61.9,
+      SubTitle ,
+      Title Town of Uss v21.37.61.9,
+      Text [
+        bNowoscib,
+        n- Nie mozna juz reportowac cial podczas Killing Only,
+        n- Nie mozna klikac spotkania podczas killing Only,
+        bZmianyb,
+        n- Podczas Killing Only znowu mozna otwierac mape ale nie mozna uzywac sabotazy
+      ]
+    },
+    {
+      Date 2026-06-12T125000Z,
+      Number 213708,
+      ShortTitle ToUs v61.10,
+      SubTitle ,
+      Title Town of Uss v21.37.61.10,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-24T125000Z,
+      Number 213709,
+      ShortTitle ToUs v61.11,
+      SubTitle ,
+      Title Town of Uss v21.37.61.11,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-24T125000Z,
+      Number 213710,
+      ShortTitle ToUs v61.12,
+      SubTitle ,
+      Title Town of Uss v21.37.61.12,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-26T125000Z,
+      Number 213711,
+      ShortTitle ToUs v62,
+      SubTitle ,
+      Title Town of Uss v21.37.62,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-26T125000Z,
+      Number 213712,
+      ShortTitle ToUs v62.1,
+      SubTitle ,
+      Title Town of Uss v21.37.62.1,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-07-03T125000Z,
+      Number 213713,
+      ShortTitle ToUs v63,
+      SubTitle ,
+      Title Town of Uss v21.37.63,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-13T125000Z,
+      Number 213716,
+      ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
+      SubTitle ,
+      Title Town of Uss v21.37.61.4,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
+      ]
+    },
+    {
+      Date 2026-06-13T125000Z,
+      Number 213717,
+      ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
+      SubTitle ,
+      Title Town of Uss v21.37.61.4,
+      Text [
+        bNowosci:b,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany
       ]
     }
   ]
