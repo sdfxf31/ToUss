@@ -4,18 +4,18 @@
       Date 2025-06-06T12:50:00Z,
       Number 213700,
       ShortTitle ToUs v61.2,
-      SubTitle Wsm Tylko Dla Dronera,
+      SubTitle Wsm tylko dla Dronera,
       Title Town of Uss v21.37.61.2,
       Text [
         bTylko jedno noweb,
-        - Droner moze uzywac kamer gdziekolwiek chce :D
+        n- Droner moze uzywac kamer gdziekolwiek chce :D
       ]
     },
     {
       Date 2025-06-07T12:50:00Z,
       Number 213701,
       ShortTitle ToUs v61.3,
-      SubTitle ,
+      SubTitle Droner,
       Title Town of Uss v21.37.61.3,
       Text [
         bZ nowych tob,
@@ -28,7 +28,7 @@
       Date 2025-06-08T12:50:00Z,
       Number 213702,
       ShortTitle ToUs v61.4,
-      SubTitle ,
+      SubTitle Droner ciag dalszy,
       Title Town of Uss v21.37.61.4,
       Text [
         bNowoscib,
@@ -40,7 +40,7 @@
       Date 2025-06-09T12:50:00Z,
       Number 213703,
       ShortTitle ToUs v61.5,
-      SubTitle ,
+      SubTitle Dalej Droner,
       Title Town of Uss v21.37.61.5,
       Text [
         bNowoscib,
@@ -54,7 +54,7 @@
       Date 2025-06-10T12:50:00Z,
       Number 213704,
       ShortTitle ToUs v61.6,
-      SubTitle ,
+      SubTitle Droner i Change Log,
       Title Town of Uss v21.37.61.6,
       Text [
         bNowoscib,
@@ -67,7 +67,7 @@
       Date 2025-06-10T12:50:00Z,
       Number 213705,
       ShortTitle ToUs v61.7,
-      SubTitle ,
+      SubTitle Poprawki z commsami,
       Title Town of Uss v21.37.61.7,
       Text [
         bNowoscib,
@@ -80,7 +80,7 @@
       Date 2025-06-11T12:50:00Z,
       Number 213706,
       ShortTitle ToUs v61.8,
-      SubTitle ,
+      SubTitle Droner...,
       Title Town of Uss v21.37.61.8,
       Text [
         bZmianyb,
@@ -94,7 +94,7 @@
       Date 2025-06-11T12:50:00Z,
       Number 213707,
       ShortTitle ToUs v61.9,
-      SubTitle ,
+      SubTitle Killing Only,
       Title Town of Uss v21.37.61.9,
       Text [
         bNowoscib,
@@ -108,7 +108,7 @@
       Date 2025-06-12T12:50:00Z,
       Number 213708,
       ShortTitle ToUs v61.10,
-      SubTitle ,
+      SubTitle Zmiany starych rzeczy i Werewolf,
       Title Town of Uss v21.37.61.10,
       Text [
         bNowoscib,
@@ -126,7 +126,7 @@
       Date 2025-06-24T12:50:00Z,
       Number 213709,
       ShortTitle ToUs v61.11,
-      SubTitle ,
+      SubTitle Poprawki,
       Title Town of Uss v21.37.61.11,
       Text [
         bPoprawkib,
@@ -138,7 +138,7 @@
       Date 2025-06-24T12:50:00Z,
       Number 213710,
       ShortTitle ToUs v61.12,
-      SubTitle ,
+      SubTitle Dalsze Poprawki,
       Title Town of Uss v21.37.61.12,
       Text [
         bPoprawkib,
@@ -149,7 +149,7 @@
       Date 2025-06-26T12:50:00Z,
       Number 213711,
       ShortTitle ToUs v62,
-      SubTitle ,
+      SubTitle Maly dodatek,
       Title Town of Uss v21.37.62,
       Text [
         bZmianyb,
@@ -160,7 +160,7 @@
       Date 2025-06-26T12:50:00Z,
       Number 213712,
       ShortTitle ToUs v62.1,
-      SubTitle ,
+      SubTitle Zoptymalizowany Radar,
       Title Town of Uss v21.37.62.1,
       Text [
         bPoprawkib,
@@ -171,7 +171,7 @@
       Date 2025-07-03T12:50:00Z,
       Number 213713,
       ShortTitle ToUs v63,
-      SubTitle ,
+      SubTitle Duzy Update,
       Title Town of Uss v21.37.63,
       Text [
         bNowoscib,
@@ -204,30 +204,6 @@
         n- Naprawiono widok ustawien dla innych,
         n- Naprawiono blad Dronera spowodowany nowa wersja gry,
         n- Odchudzenie pliku moda o 30 MB
-      ]
-    },
-    {
-      Date 2026-06-13T12:50:00Z,
-      Number 213716,
-      ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
-      SubTitle ,
-      Title Town of Uss v21.37.61.4,
-      Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
-      ]
-    },
-    {
-      Date 2026-06-13T12:50:00Z,
-      Number 213717,
-      ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
-      SubTitle ,
-      Title Town of Uss v21.37.61.4,
-      Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
       ]
     }
   ]
