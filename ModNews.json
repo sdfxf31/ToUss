@@ -1,7 +1,7 @@
 {
   News [
     {
-      Date 2025-06-06T125000Z,
+      Date 2025-06-06T12:50:00Z,
       Number 213700,
       ShortTitle ToUs v61.2,
       SubTitle Wsm Tylko Dla Dronera,
@@ -12,7 +12,7 @@
       ]
     },
     {
-      Date 2025-06-07T125000Z,
+      Date 2025-06-07T12:50:00Z,
       Number 213701,
       ShortTitle ToUs v61.3,
       SubTitle ,
@@ -25,7 +25,7 @@
       ]
     },
     {
-      Date 2025-06-08T125000Z,
+      Date 2025-06-08T12:50:00Z,
       Number 213702,
       ShortTitle ToUs v61.4,
       SubTitle ,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      Date 2025-06-09T125000Z,
+      Date 2025-06-09T12:50:00Z,
       Number 213703,
       ShortTitle ToUs v61.5,
       SubTitle ,
@@ -51,7 +51,7 @@
       ]
     },
     {
-      Date 2025-06-10T125000Z,
+      Date 2025-06-10T12:50:00Z,
       Number 213704,
       ShortTitle ToUs v61.6,
       SubTitle ,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      Date 2025-06-10T125000Z,
+      Date 2025-06-10T12:50:00Z,
       Number 213705,
       ShortTitle ToUs v61.7,
       SubTitle ,
@@ -77,7 +77,7 @@
       ]
     },
     {
-      Date 2025-06-11T125000Z,
+      Date 2025-06-11T12:50:00Z,
       Number 213706,
       ShortTitle ToUs v61.8,
       SubTitle ,
@@ -91,7 +91,7 @@
       ]
     },
     {
-      Date 2025-06-11T125000Z,
+      Date 2025-06-11T12:50:00Z,
       Number 213707,
       ShortTitle ToUs v61.9,
       SubTitle ,
@@ -105,7 +105,7 @@
       ]
     },
     {
-      Date 2025-06-12T125000Z,
+      Date 2025-06-12T12:50:00Z,
       Number 213708,
       ShortTitle ToUs v61.10,
       SubTitle ,
@@ -123,7 +123,7 @@
       ]
     },
     {
-      Date 2025-06-24T125000Z,
+      Date 2025-06-24T12:50:00Z,
       Number 213709,
       ShortTitle ToUs v61.11,
       SubTitle ,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      Date 2025-06-24T125000Z,
+      Date 2025-06-24T12:50:00Z,
       Number 213710,
       ShortTitle ToUs v61.12,
       SubTitle ,
@@ -146,7 +146,7 @@
       ]
     },
     {
-      Date 2025-06-26T125000Z,
+      Date 2025-06-26T12:50:00Z,
       Number 213711,
       ShortTitle ToUs v62,
       SubTitle ,
@@ -157,7 +157,7 @@
       ]
     },
     {
-      Date 2025-06-26T125000Z,
+      Date 2025-06-26T12:50:00Z,
       Number 213712,
       ShortTitle ToUs v62.1,
       SubTitle ,
@@ -168,13 +168,13 @@
       ]
     },
     {
-      Date 2025-07-03T125000Z,
+      Date 2025-07-03T12:50:00Z,
       Number 213713,
       ShortTitle ToUs v63,
       SubTitle ,
       Title Town of Uss v21.37.63,
       Text [
-        bNowościb,
+        bNowoscib,
         n- Nie da sie juz poruszac podczas wyboru roli,
         n- Dodanie opcji by nie bylo wszystkich roli w Drafcie,
         n- Licznik ile zostalo osobie wybierajacej czasu,
@@ -203,12 +203,11 @@
         n- Naprawiono podwojne taski dla hosta w Draft Modzie,
         n- Naprawiono widok ustawien dla innych,
         n- Naprawiono blad Dronera spowodowany nowa wersja gry,
-        n- Odchudzenie pliku moda o 30 MB,
-        
+        n- Odchudzenie pliku moda o 30 MB
       ]
     },
     {
-      Date 2026-06-13T125000Z,
+      Date 2026-06-13T12:50:00Z,
       Number 213716,
       ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
       SubTitle ,
@@ -220,7 +219,7 @@
       ]
     },
     {
-      Date 2026-06-13T125000Z,
+      Date 2026-06-13T12:50:00Z,
       Number 213717,
       ShortTitle ToUs v61.4 Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy Copy,
       SubTitle ,
