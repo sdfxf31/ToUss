@@ -1,180 +1,68 @@
 {
   News [
     {
-      Date 2025-06-06T12:50:00Z,
-      Number 213700,
-      ShortTitle ToUs v61.2,
-      SubTitle Wsm tylko dla Dronera,
-      Title Town of Uss v21.37.61.2,
-      Text [
-        bTylko jedno noweb,
-        n- Droner moze uzywac kamer gdziekolwiek chce :D
-      ]
-    },
-    {
-      Date 2025-06-07T12:50:00Z,
-      Number 213701,
-      ShortTitle ToUs v61.3,
-      SubTitle Droner,
-      Title Town of Uss v21.37.61.3,
-      Text [
-        bZ nowych tob,
-        n- Remodel dronow i przyciskow Dronera,
-        nnbA z Poprawekb,
-        n- Oraz naprawiono bug z zostaniem drona po smierci Dronera
-      ]
-    },
-    {
-      Date 2025-06-08T12:50:00Z,
-      Number 213702,
-      ShortTitle ToUs v61.4,
-      SubTitle Droner ciag dalszy,
-      Title Town of Uss v21.37.61.4,
-      Text [
-        bNowoscib,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
-      ]
-    },
-    {
-      Date 2025-06-09T12:50:00Z,
-      Number 213703,
-      ShortTitle ToUs v61.5,
-      SubTitle Dalej Droner,
-      Title Town of Uss v21.37.61.5,
-      Text [
-        bNowoscib,
-        n- Drona teraz kontroluje sie strzalkami,
-        nnbZmianyb,
-        n- Zwiekszono maksymalny mozliwy zasieg drona i komunikat wizualny,
-        n- Zmieniono opis Dronera
-      ]
-    },
-    {
-      Date 2025-06-10T12:50:00Z,
-      Number 213704,
-      ShortTitle ToUs v61.6,
-      SubTitle Droner i Change Log,
-      Title Town of Uss v21.37.61.6,
-      Text [
-        bNowoscib,
-        n- Nie da sie korzystac z drona podczas sabotazu komunikacji,
-        nnbZmianyb,
-        n- Troche zmieniony Change Log
-      ]
-    },
-    {
-      Date 2025-06-10T12:50:00Z,
-      Number 213705,
-      ShortTitle ToUs v61.7,
-      SubTitle Poprawki z commsami,
-      Title Town of Uss v21.37.61.7,
+      Date 2025-06-24T12:50:00Z,
+      Number 213710,
+      ShortTitle ToUs v61.#,
+      SubTitle Dalsze Poprawki,
+      Title Town of Uss v21.37.61.#,
       Text [
         bNowoscib,
         n- Dodano miganie tekstu na ekranie kontroli drona podczas commsow,
-        nnbZmianyb,
-        n- Zmieniono czcionke na ekranie kontroli drona podczasz commsow
-      ]
-    },
-    {
-      Date 2025-06-11T12:50:00Z,
-      Number 213706,
-      ShortTitle ToUs v61.8,
-      SubTitle Droner...,
-      Title Town of Uss v21.37.61.8,
-      Text [
-        bZmianyb,
-        n- Predkosci drona juz nie da sie zmieniac w ustawieniach,
-        nnbPoprawkib,
-        n- Dron porusza sie plynniej dla innych,
-        n- Poprawiono wyglad monitora drona
-      ]
-    },
-    {
-      Date 2025-06-11T12:50:00Z,
-      Number 213707,
-      ShortTitle ToUs v61.9,
-      SubTitle Killing Only,
-      Title Town of Uss v21.37.61.9,
-      Text [
-        bNowoscib,
-        n- Nie mozna juz reportowac cial podczas Killing Only,
-        n- Nie mozna klikac spotkania podczas killing Only,
-        nnbZmianyb,
-        n- Podczas Killing Only znowu mozna otwierac mape ale nie mozna uzywac sabotazy
-      ]
-    },
-    {
-      Date 2025-06-12T12:50:00Z,
-      Number 213708,
-      ShortTitle ToUs v61.10,
-      SubTitle Zmiany starych rzeczy i Werewolf,
-      Title Town of Uss v21.37.61.10,
-      Text [
-        bNowoscib,
+        n- Nie da sie korzystac z drona podczas sabotazu komunikacji,
+        n- Drona teraz kontroluje sie strzalkami,
+        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
+        n- Dron dronera nie moze teraz przenikac przez sciany,
+        n- Remodel dronow i przyciskow Dronera,
+        n- Droner moze uzywac kamer gdziekolwiek chce :D,
         n- Po dokladnie 90 wersjach... wreszcie napis podczas meetingu jest losowy!,
         n- Werewolf dokonuje przemiany podczas Rampage,
-        nnbPoprawkib,
-        n- Po nacisnieciu F2 wyswietla sie opis roli,
-        n- Nie trzeba juz po meetingu klikac dwa razy aby wypuscic drona,
         nnbZmianyb,
         n- Werewolf moze wentowac tylko gdy nie jest przemieniony,
-        n- Usunieto Pestilence i Plaguebearera z Killing Only
-      ]
-    },
-    {
-      Date 2025-06-24T12:50:00Z,
-      Number 213709,
-      ShortTitle ToUs v61.11,
-      SubTitle Poprawki,
-      Title Town of Uss v21.37.61.11,
-      Text [
-        bPoprawkib,
+        n- Usunieto Pestilence i Plaguebearera z Killing Only,
+        n- Nie mozna juz reportowac cial podczas Killing Only,
+        n- Nie mozna klikac spotkania podczas killing Only,
+        n- Podczas Killing Only znowu mozna otwierac mape ale nie mozna uzywac sabotazy,
+        n- Predkosci drona juz nie da sie zmieniac w ustawieniach,
+        n- Zmieniono czcionke na ekranie kontroli drona podczasz commsow,
+        n- Troche zmieniony Change Log,
+        n- Zmieniono opis Dronera,
+        n- Zwiekszono maksymalny mozliwy zasieg drona i komunikat wizualny,
+        ,
+        nnbPoprawkib,
         n- Animacja killa przemienionego Werewolfa juz nie jest zbugowana,
-        n- Killing Only znowu dziala
-      ]
-    },
-    {
-      Date 2025-06-24T12:50:00Z,
-      Number 213710,
-      ShortTitle ToUs v61.12,
-      SubTitle Dalsze Poprawki,
-      Title Town of Uss v21.37.61.12,
-      Text [
-        bPoprawkib,
-        n- Vigilante moze juz strzelac podczas Drafta i Loversow tez da sie juz strzelac jezeli wlaczone
-      ]
-    },
-    {
-      Date 2025-06-26T12:50:00Z,
-      Number 213711,
-      ShortTitle ToUs v62,
-      SubTitle Maly dodatek,
-      Title Town of Uss v21.37.62,
-      Text [
-        bZmianyb,
-        n- Licznik w Draft Mode teraz miga
+        n- Killing Only znowu dziala,
+        n- Po nacisnieciu F2 wyswietla sie opis roli,
+        n- Nie trzeba juz po meetingu klikac dwa razy aby wypuscic drona,
+        n- Dron porusza sie plynniej dla innych,
+        n- Poprawiono wyglad monitora drona,
+        n- Vigilante moze juz strzelac podczas Drafta i Loversow tez da sie juz strzelac jezeli wlaczone,
+        n- Oraz naprawiono bug z zostaniem drona po smierci Dronera
       ]
     },
     {
       Date 2025-06-26T12:50:00Z,
       Number 213712,
-      ShortTitle ToUs v62.1,
+      ShortTitle ToUs v62.#,
       SubTitle Zoptymalizowany Radar,
-      Title Town of Uss v21.37.62.1,
+      Title Town of Uss v21.37.62.#,
       Text [
         bPoprawkib,
-        n- Radar znowu dziala w Drafcie
+        n- Radar znowu dziala w Drafcie,
+        ,
+        nnbZmianyb,
+        n- Licznik w Draft Mode teraz miga
       ]
     },
     {
-      Date 2025-07-03T12:50:00Z,
-      Number 213713,
-      ShortTitle ToUs v63,
-      SubTitle Duzy Update,
-      Title Town of Uss v21.37.63,
+      Date 2025-08-15T12:50:00Z,
+      Number 213714,
+      ShortTitle ToUs v63.#,
+      SubTitle Dodanie w podwersjach 63,
+      Title Town of Uss v21.37.63.#,
       Text [
         bNowoscib,
+        n- Dodano do ustawien Werewolfa by dalo sie wylaczyc przemiane,
         n- Nie da sie juz poruszac podczas wyboru roli,
         n- Dodanie opcji by nie bylo wszystkich roli w Drafcie,
         n- Licznik ile zostalo osobie wybierajacej czasu,
@@ -188,6 +76,7 @@
         ,
         nnbZmianyb,
         n- Napis WAIT FOR YOUR TURN wreszcie sie zmienia,
+        n- Napis WAIT FOR YOUR TURN wreszcie sie zmienia,
         n- Zmieniono miganie licznika aby nie migal od razu, a dopiero od 10 sekund,
         n- Zmiana sprite'u Blackmailera, Venerera, Swoopera i celi Jailora,
         n- Nowa zakladka Visuals, w ktorej mozna wylaczyc kolor teczowy i miec takie same kolory,
@@ -196,6 +85,11 @@
         n- Usuniecie kompletnie komendy /r itp.,
         ,
         nnbPoprawkib,
+        n- Jakies poprawki, a tak to nic waznego dla was, tylko rzeczy dla mnie :),
+        n- Typowe male poprawki,
+        n- Po wyjsciu z gry juz nie gra muzyka z Draft Mode,
+        n- Naprawiono by nie bylo trzeba klikac co dolaczenie start i cancel,
+        n- Naprawiono Anty cheata,
         n- Host juz nie moze spamowac Startem,
         n- Ustawienia juz zawsze sa synchronizowane, lecz po wejsciu do lobby jest jednosekundowy lag,
         n- Nie powinno juz byc UNKNOWN w Drafcie,
@@ -204,6 +98,150 @@
         n- Naprawiono widok ustawien dla innych,
         n- Naprawiono blad Dronera spowodowany nowa wersja gry,
         n- Odchudzenie pliku moda o 30 MB
+      ]
+    },
+    {
+      Date 2025-08-26T12:50:00Z,
+      Number 213715,
+      ShortTitle ToUs v64.#,
+      SubTitle Wszystko dodane w wersjach 64,
+      Title Town of Uss v21.37.64.#,
+      Text [
+        bNowoscib,
+        n- Dodano fajne taski,
+        n- Cos z discordem,
+        n- System banowania :>,
+        n- Chat impostorski,
+        n- Nowa rola impostorska Adster,
+        n- Nowy modyfikator Shapeless,
+        n- Opis rol po napisaniu '?[rola]' + komenda /help,
+        n- ZRSS Update >:),
+        ,
+        nnbZmianyb,
+        n- Wybuch Kamikaze jest lekko wiekszy,
+        ,
+        nnbPoprawkib,
+        n- Naprawa discorda,
+        n- Naprawiono blad tagow z modyfikatorem Shapeless,
+        n- Chyba usunieto blad z kilkoma altrustami w Draft Mode,
+        n- Zmniejszono mozliwy cooldown altruisty,
+        n- Naprawione dopiski u Venerera,
+        n- Kamikaze wygrywa po wyzadzeniu sie gdy jest ostatnim killerem,
+        n- Vulture wygrywa odrazu,
+        n- Naprawienie dopiskow pod nickami
+      ]
+    },
+    {
+      Date 2025-08-21T12:50:00Z,
+      Number 213716,
+      ShortTitle ToUs v65.#,
+      SubTitle Wszystko dodane w wersjach 65,
+      Title Town of Uss v21.37.65.#,
+      Text [
+        bNowoscib,
+        n- Kolorowy update - woke update!,
+        ,
+        nnbZmianyb,
+        n- Zmiana kolorkow w przyciskach w lobby,
+        ,
+        nnbPoprawkib,
+        n- Poprawiono scrollowanie w podgladzie ustawien lobby
+      ]
+    },
+    {
+      Date 2025-11-21T12:50:00Z,
+      Number 213717,
+      ShortTitle ToUs v66.#,
+      SubTitle Wszystko dodane w wersjach 66,
+      Title Town of Uss v21.37.66.#,
+      Text [
+        bNowoscib,
+        n- Przycisk Creditsow,
+        n- A i pewnie trudno zauwazyc ale Change Log zastepuje Sklep bo po co on komu,
+        n- Nowy przycisk do komend,
+        n- Nowa rola neutralna, Troll,
+        n- Nowa rola crewmate, Astral,
+        n- Nowy modyfikator, Blinded,
+        ,
+        nnbZmianyb,
+        n- Update do nowej wersji amonga -_- , tak, znowu -_-,
+        n- Poisoner juz nie moze miec zwyczajnie zabijac,
+        n- Zmiana ikonki Help Chatu aby sie wyroznial,
+        n- Usuniecie zmiany prywatnosci w lobby bo i tak nikt nie moze dolaczyc,
+        n- Wylaczenie cenzorowania chatu,
+        n- Ogolnie duzo graficznych malych zmian oraz nowe systemy dla mnie :3,
+        n- Help Chat teraz nie bedzie pojawiac sie co runde automatycznie,
+        n- Update do nowej wersji amonga -_-,
+        n- Rework Wardena,
+        ,
+        nnbPoprawkib,
+        n- Juz brak opoznienia zwiazanego z lista Friend ID,
+        n- Usuniecie bledu zmieniajacy niektore czarne napisy na bialy
+      ]
+    },
+    {
+      Date 2026-01-6,
+      Number 213718,
+      ShortTitle ToUs v67.#,
+      SubTitle Wszystko dodane w wersjach 67,
+      Title Town of Uss v21.37.64.#,
+      Text [
+        bNowoscib,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        ,
+        nnbZmianyb,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        n-,
+        ,
+        nnbPoprawkib,
+        n- Poprawiono straszny stary system losowego tekstu na meetingu ale dalej dziala na bazie czasu ;-;,
+        n- Naprawiono czasami nie znikajace strzalki Retributora,
+        n- Naprawiono otwieranie dekontaminacji przez role duchow,
+        n- Male zmiany u jailora i chacie impostorow,
+        n- Dzwieki juz sa podpiete do ustawien glosnosci SFX i Music,
+        n- Poprawiony wyglad menu dla Transportera, Mimic Glitcha i innych, dla osob 15+,
+        n- Naprawione iksy u reklam Adstera,
+        n- Duzo lepiej zrobiona opcja do lobby 15+,
+        n- Naprawiono blad z pojawianiem sie Traitora,
+        n- Naprawiono licznik Retributora,
+        n- Foreteller moze juz strzelac Astrala,
+        n- Retributor nie moze korzystac z chatu,
+        n- Naprawiono Ekran koncowy Killing Only,
+        n- Poprawiono bialyy tekst w tworzeniu gry,
+        n- Necromancer juz moze pojawic sie w Drafcie,
+        n- Naprawiono przyciski Kamikaze,
+        n- Role duchowe i traitor juz sa w AllRoles w Draft Mode
+      ]
+    },
+    {
+      Date 2026-02-28T12:50:00Z,
+      Number 213719,
+      ShortTitle ToUs v68.#,
+      SubTitle Wszystko dodane w wersjach 68,
+      Title Town of Uss v21.37.68.#,
+      Text [
+        bNowoscib,
+        n-,
+        n-,
+        ,
+        nnbZmianyb,
+        n-,
+        n-,
+        ,
+        nnbPoprawkib,
+        n-,
+        n-
       ]
     }
   ]
