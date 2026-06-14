@@ -362,7 +362,7 @@
       Date 2027-01-01T12:50:00Z,
       Number 999996,
       ShortTitle Tutorial,
-      SubTitle Manualne i Automatyczne,
+      SubTitle <color=#808080>Manualne i Automatyczne</color>,
       Title Tutorial do pobierania,
       Text [
         <#000000>,
