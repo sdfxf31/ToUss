@@ -77,7 +77,6 @@
         ,
         nnbZmianyb,
         n- Napis WAIT FOR YOUR TURN wreszcie sie zmienia,
-        n- Napis WAIT FOR YOUR TURN wreszcie sie zmienia,
         n- Zmieniono miganie licznika aby nie migal od razu, a dopiero od 10 sekund,
         n- Zmiana sprite'u Blackmailera, Venerera, Swoopera i celi Jailora,
         n- Nowa zakladka Visuals, w ktorej mozna wylaczyc kolor teczowy i miec takie same kolory,
@@ -102,12 +101,13 @@
       ]
     },
     {
-      Date 2025-08-26T12:50:00Z,
+      Date 2025-08-21T12:50:00Z,
       Number 213715,
       ShortTitle ToUs v64.#,
       SubTitle QoL,
       Title Town of Uss v21.37.64.#,
       Text [
+        <color=#808080>,
         bNowoscib,
         n- Dodano fajne taski,
         n- Cos z discordem,
@@ -129,11 +129,12 @@
         n- Naprawione dopiski u Venerera,
         n- Kamikaze wygrywa po wyzadzeniu sie gdy jest ostatnim killerem,
         n- Vulture wygrywa odrazu,
-        n- Naprawienie dopiskow pod nickami
+        n- Naprawienie dopiskow pod nickami,
+        </color>
       ]
     },
     {
-      Date 2025-08-21T12:50:00Z,
+      Date 2025-08-26T12:50:00Z,
       Number 213716,
       ShortTitle ToUs v65.#,
       SubTitle Mini Update,
