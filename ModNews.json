@@ -12,7 +12,7 @@
       ]
     },
     {
-      Date 2026-06-07T125000Z,
+      Date 2025-06-07T125000Z,
       Number 213701,
       ShortTitle ToUs v61.3,
       SubTitle ,
@@ -20,12 +20,12 @@
       Text [
         bZ nowych tob,
         n- Remodel dronow i przyciskow Dronera,
-        nbA z Poprawekb,
+        nnbA z Poprawekb,
         n- Oraz naprawiono bug z zostaniem drona po smierci Dronera
       ]
     },
     {
-      Date 2026-06-08T125000Z,
+      Date 2025-06-08T125000Z,
       Number 213702,
       ShortTitle ToUs v61.4,
       SubTitle ,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      Date 2026-06-09T125000Z,
+      Date 2025-06-09T125000Z,
       Number 213703,
       ShortTitle ToUs v61.5,
       SubTitle ,
@@ -45,13 +45,13 @@
       Text [
         bNowoscib,
         n- Drona teraz kontroluje sie strzalkami,
-        nbZmianyb,
+        nnbZmianyb,
         n- Zwiekszono maksymalny mozliwy zasieg drona i komunikat wizualny,
         n- Zmieniono opis Dronera
       ]
     },
     {
-      Date 2026-06-10T125000Z,
+      Date 2025-06-10T125000Z,
       Number 213704,
       ShortTitle ToUs v61.6,
       SubTitle ,
@@ -59,12 +59,12 @@
       Text [
         bNowoscib,
         n- Nie da sie korzystac z drona podczas sabotazu komunikacji,
-        nbZmianyb,
+        nnbZmianyb,
         n- Troche zmieniony Change Log
       ]
     },
     {
-      Date 2026-06-10T125000Z,
+      Date 2025-06-10T125000Z,
       Number 213705,
       ShortTitle ToUs v61.7,
       SubTitle ,
@@ -72,12 +72,12 @@
       Text [
         bNowoscib,
         n- Dodano miganie tekstu na ekranie kontroli drona podczas commsow,
-        nbZmianyb,
+        nnbZmianyb,
         n- Zmieniono czcionke na ekranie kontroli drona podczasz commsow
       ]
     },
     {
-      Date 2026-06-11T125000Z,
+      Date 2025-06-11T125000Z,
       Number 213706,
       ShortTitle ToUs v61.8,
       SubTitle ,
@@ -85,13 +85,13 @@
       Text [
         bZmianyb,
         n- Predkosci drona juz nie da sie zmieniac w ustawieniach,
-        bPoprawkib,
+        nnbPoprawkib,
         n- Dron porusza sie plynniej dla innych,
         n- Poprawiono wyglad monitora drona
       ]
     },
     {
-      Date 2026-06-11T125000Z,
+      Date 2025-06-11T125000Z,
       Number 213707,
       ShortTitle ToUs v61.9,
       SubTitle ,
@@ -100,80 +100,111 @@
         bNowoscib,
         n- Nie mozna juz reportowac cial podczas Killing Only,
         n- Nie mozna klikac spotkania podczas killing Only,
-        bZmianyb,
+        nnbZmianyb,
         n- Podczas Killing Only znowu mozna otwierac mape ale nie mozna uzywac sabotazy
       ]
     },
     {
-      Date 2026-06-12T125000Z,
+      Date 2025-06-12T125000Z,
       Number 213708,
       ShortTitle ToUs v61.10,
       SubTitle ,
       Title Town of Uss v21.37.61.10,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bNowoscib,
+        n- Po dokladnie 90 wersjach... wreszcie napis podczas meetingu jest losowy!,
+        n- Werewolf dokonuje przemiany podczas Rampage,
+        nnbPoprawkib,
+        n- Po nacisnieciu F2 wyswietla sie opis roli,
+        n- Nie trzeba juz po meetingu klikac dwa razy aby wypuscic drona,
+        nnbZmianyb,
+        n- Werewolf moze wentowac tylko gdy nie jest przemieniony,
+        n- Usunieto Pestilence i Plaguebearera z Killing Only
       ]
     },
     {
-      Date 2026-06-24T125000Z,
+      Date 2025-06-24T125000Z,
       Number 213709,
       ShortTitle ToUs v61.11,
       SubTitle ,
       Title Town of Uss v21.37.61.11,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bPoprawkib,
+        n- Animacja killa przemienionego Werewolfa juz nie jest zbugowana,
+        n- Killing Only znowu dziala
       ]
     },
     {
-      Date 2026-06-24T125000Z,
+      Date 2025-06-24T125000Z,
       Number 213710,
       ShortTitle ToUs v61.12,
       SubTitle ,
       Title Town of Uss v21.37.61.12,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bPoprawkib,
+        n- Vigilante moze juz strzelac podczas Drafta i Loversow tez da sie juz strzelac jezeli wlaczone
       ]
     },
     {
-      Date 2026-06-26T125000Z,
+      Date 2025-06-26T125000Z,
       Number 213711,
       ShortTitle ToUs v62,
       SubTitle ,
       Title Town of Uss v21.37.62,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bZmianyb,
+        n- Licznik w Draft Mode teraz miga
       ]
     },
     {
-      Date 2026-06-26T125000Z,
+      Date 2025-06-26T125000Z,
       Number 213712,
       ShortTitle ToUs v62.1,
       SubTitle ,
       Title Town of Uss v21.37.62.1,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bPoprawkib,
+        n- Radar znowu dziala w Drafcie
       ]
     },
     {
-      Date 2026-07-03T125000Z,
+      Date 2025-07-03T125000Z,
       Number 213713,
       ShortTitle ToUs v63,
       SubTitle ,
       Title Town of Uss v21.37.63,
       Text [
-        bNowosci:b,
-        n- Droner ma nowa umiejetnosc wysylania i kontrolowania drona,
-        n- Dron dronera nie moze teraz przenikac przez sciany
+        bNowościb,
+        n- Nie da sie juz poruszac podczas wyboru roli,
+        n- Dodanie opcji by nie bylo wszystkich roli w Drafcie,
+        n- Licznik ile zostalo osobie wybierajacej czasu,
+        n- Przed wybraniem dodano napis ile osob na ile juz wybralo role,
+        n- Nowa opcja dla Blackmailera by zblackmailowani nie mogli glosowac niezaleznie od ilosci graczy,
+        n- DZWIEKI W DRAFT MODE a dokladniej dzwiek: wybrania, tykania, konca i oczywiscie muzyka w tle :3,
+        n- Nowe dzwieki umiejetnosci dla rol: Swooper, Janitor, Miner, Warlock, Glitch, Arsonist, Werewolf, Guardian Angel, Detective, Medium, Spy, Vigilante, Engineer, Prosecutor, Time Lord, Droner, Jailor,
+        n- Nowa animacja Blackmailera podczas meetingu,
+        n- Dodanie opcji umozliwiajacej miec ten sam kolor,
+        n- Pod F1 wyswietla sie opis modyfikatora,
+        ,
+        nnbZmianyb,
+        n- Napis WAIT FOR YOUR TURN wreszcie sie zmienia,
+        n- Zmieniono miganie licznika aby nie migal od razu, a dopiero od 10 sekund,
+        n- Zmiana sprite'u Blackmailera, Venerera, Swoopera i celi Jailora,
+        n- Nowa zakladka Visuals, w ktorej mozna wylaczyc kolor teczowy i miec takie same kolory,
+        n- Zmiana ikonki w prawym gornym rogu,
+        n- Opisy rol sa kolorowe,
+        n- Usuniecie kompletnie komendy /r itp.,
+        ,
+        nnbPoprawkib,
+        n- Host juz nie moze spamowac Startem,
+        n- Ustawienia juz zawsze sa synchronizowane, lecz po wejsciu do lobby jest jednosekundowy lag,
+        n- Nie powinno juz byc UNKNOWN w Drafcie,
+        n- W Draft Mode po uplywie czasu i automatycznym wybraniu random roli przyciski sa teraz przezroczyste,
+        n- Naprawiono podwojne taski dla hosta w Draft Modzie,
+        n- Naprawiono widok ustawien dla innych,
+        n- Naprawiono blad Dronera spowodowany nowa wersja gry,
+        n- Odchudzenie pliku moda o 30 MB,
+        
       ]
     },
     {
