@@ -401,10 +401,11 @@
         n- No i sie skonczylo, nowy Change Log,
         <#>,
         nn,
-        nnddddddd,
+        ddddddd,
         nn,
-        <img=https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg, size=0.6>,
-        nnddddd
+        <img=https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg, size=0.3>,
+        nn,
+        ddddd
       ]
     }
   ]
