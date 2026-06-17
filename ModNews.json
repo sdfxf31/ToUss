@@ -8,7 +8,7 @@
       Title Tutorial do pobierania,
       Text [
         <#000000>,
-        nJezeli kiedys miales mody to najlepiej usun przed tym caly folder Beplindex,
+        nJezeli kiedys miales mody to najlepiej usun przed tym caly folder BepInEx,
         n,
         nPobierasz pliki z pierwszego linku i wkladasz <b>zawartosc folderu ToUs</b> do plikow amonga <b>a nie caly folder</b> ToUs,
         n<link=https://github.com/sdfxf31/ToUss/releases/download/21.37.70.4/Tous.70.4.zip>Pierwszy Link</link>,
@@ -350,13 +350,14 @@
       ]
     },
     {
-      Date 2026-06-14T12:50:00Z,
+      Date 2026-06-17T12:50:00Z,
       Number 213710,
       ShortTitle ToUs v70.#,
       SubTitle <color=#808080>Duzio Nowosci :3</color>,
       Title Town of Uss v21.37.70.#,
       Text [
         <#9932CC><b>Nowosci</b><#><#000000>,
+        n- Nowe rodzaje popupow yaay,
         n- Nowy modyfikator, Monochromatic,
         n- Nowy modyfikator Haunted,
         n- Nowa rola Neutral Killing, Medusa,
@@ -370,6 +371,7 @@
         n- Rework kamer Dronera i dodanie ustawien do nich,
         <#>,
         nn<#FFD700><b>Zmiany</b><#000000>,
+        n- Zmieniona troche wyszukiwarka rol :D,
         n- Nowy changeelog, yaaaaaay,
         n- Zaktualizowano Creditsy,
         n- Juz nie trzeba aktualizowac moda co kazda aktualizacje,
@@ -386,18 +388,20 @@
       ]
     },
     {
-      Date 2026-06-14T12:50:00Z,
-      Number 900001,
+      Date 2026-06-17T12:50:00Z,
+      Number 900002,
       ShortTitle Latest Update,
       SubTitle <color=#808080>No niezle nagetsuu</color>,
-      Title Najnowszy Update,
+      Title Najnowsze Zmiany,
       Text [
         <#9932CC><b>Z nowosci to:</b><#><#000000>,
+        n- Nowe rodzaje popupow yaay,
         n- Nowy modyfikator, Monochromatic,
         n- Nowy modyfikator Haunted,
         n- Update do najnowszej wersjii,
         <#>,
         nn<#FFD700><b>A z zmian :3</b><#000000>,
+        n- Zmieniona troche wyszukiwarka rol,
         n- No i sie skonczylo, nowy Change Log,
         <#>
       ]
