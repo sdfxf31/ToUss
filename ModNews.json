@@ -377,6 +377,7 @@
         n- Juz nie trzeba aktualizowac moda co kazda aktualizacje,
         <#>,
         nn<#32CD32><b>Poprawki</b><#000000>,
+        n- Poprawiony opis Medusy ;),
         n- Naprawienie Medusy,
         n- Poprawa literowki w statusie Discorda,
         n- Przyciski w menu wreszcie sie skaluja,
@@ -403,6 +404,9 @@
         nn<#FFD700><b>A z zmian :3</b><#000000>,
         n- Zmieniona troche wyszukiwarka rol,
         n- No i sie skonczylo, nowy Change Log,
+        <#>,
+        nn<#32CD32><b>oraz male poprawki</b><#000000>,
+        n- Poprawiony opis Medusy ;),
         <#>
       ]
     }
