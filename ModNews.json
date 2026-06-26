@@ -377,7 +377,6 @@
         n- Juz nie trzeba aktualizowac moda co kazda aktualizacje,
         <#>,
         nn<#32CD32><b>Poprawki</b><#000000>,
-        n- Poprawione pokazywanie Vanilla czapek zepsute przez aktualizacje Amogus,
         n- Poprawiony opis Medusy ;),
         n- Naprawienie Medusy,
         n- Poprawa literowki w statusie Discorda,
@@ -396,14 +395,7 @@
       SubTitle <color=#808080>No niezle nagetsuu</color>,
       Title Najnowsze Zmiany,
       Text [
-        <size=50%>,
-        Legenda:,
-        n✦ - dodane w najnowszej wersji,
-        n★ - dodane w poprzedniej wersji,
-        n✶ - dodane w jeszcze poprzedniejszej wersji,
-        n✷ - dodane w jeszcze poprzedniejszej wersji,
-        n</size>,
-        n<#9932CC><b>Z nowosci to:</b><#><#000000>,
+        <#9932CC><b>Z nowosci to:</b><#><#000000>,
         n- Nowe rodzaje popupow yaay,
         n- Nowy modyfikator, Monochromatic,
         n- Nowy modyfikator Haunted,
@@ -414,7 +406,7 @@
         n- No i sie skonczylo, nowy Change Log,
         <#>,
         nn<#32CD32><b>Oraz male poprawki</b><#000000>,
-        n✦ Poprawione pokazywanie Vanilla czapek zepsute przez aktualizacje Amogus,
+        n- Poprawione pokazywanie Vanilla czapek zepsute przez aktualizacje Amogus,
         n- Poprawiony opis Medusy ;),
         <#>
       ]
