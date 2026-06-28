@@ -357,6 +357,7 @@
       Title Town of Uss v21.37.70.#,
       Text [
         <#9932CC><b>Nowosci</b><#><#000000>,
+        n- Dodano wyszukiwarke ustawien dla hosta,
         n- Dodano opcje do auto rejoin,
         n- Nowe rodzaje popupow yaay,
         n- Nowy modyfikator, Monochromatic,
@@ -403,6 +404,7 @@
       Title Najnowsze Zmiany,
       Text [
         <#9932CC><b>Z nowosci</b><#><#000000>,
+        n- Dodano wyszukiwarke ustawien dla hosta,
         n- Dodano opcje do auto rejoin,
         <#>,
         nn<#32CD32><b>Oraz poprawki</b><#000000>,
