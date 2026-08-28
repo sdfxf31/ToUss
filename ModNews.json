@@ -399,16 +399,25 @@
     },
     {
       Date 2026-08-28T12:50:00Z,
-      Number 900007,
+      Number 900008,
       ShortTitle Latest Update,
       SubTitle <color=#808080>No niezle nagetsuu</color>,
       Title Najnowsze Zmiany,
       Text [
         <#9932CC><b>Z nowosci</b><#><#000000>,
         n- Zaktualizowanie Amogusow do najnowszej wersji,
+        n- Dodano wyszukiwarke ustawien dla hosta,
+        n- Dodano opcje do auto rejoin,
         <#>,
         nn<#FFD700><b>Zmiany</b><#000000>,
         n- Usunieto opcje do dawania taskow duchom co runde,
+        <#>,
+        nn<#32CD32><b>I poprawki</b><#000000>,
+        n- Pomniejszono troche gorna czesc collidera Gianta,
+        n- Naprawiono psujace sie wchodzenie do gry,
+        n- Update do opisu Auriala dla zmiany dodanej z rok temu...,
+        n- Moze naprawiono chaty loversow,
+        n- Naprawiono chat Jailora,
         <#>
       ]
     }
