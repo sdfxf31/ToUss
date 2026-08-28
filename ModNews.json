@@ -350,7 +350,7 @@
       ]
     },
     {
-      Date 2026-06-29T12:50:00Z,
+      Date 2026-08-28T12:50:00Z,
       Number 213710,
       ShortTitle ToUs v70.#,
       SubTitle <color=#808080>Duzio Nowosci :3</color>,
@@ -373,6 +373,7 @@
         n- Rework kamer Dronera i dodanie ustawien do nich,
         <#>,
         nn<#FFD700><b>Zmiany</b><#000000>,
+        n- Usunieto opcje do dawania taskow duchom co runde,
         n- Zmieniona troche wyszukiwarka rol :D,
         n- Nowy changeelog, yaaaaaay,
         n- Zaktualizowano Creditsy,
@@ -397,22 +398,17 @@
       ]
     },
     {
-      Date 2026-06-29T12:50:00Z,
-      Number 900006,
+      Date 2026-08-28T12:50:00Z,
+      Number 900007,
       ShortTitle Latest Update,
       SubTitle <color=#808080>No niezle nagetsuu</color>,
       Title Najnowsze Zmiany,
       Text [
         <#9932CC><b>Z nowosci</b><#><#000000>,
-        n- Dodano wyszukiwarke ustawien dla hosta,
-        n- Dodano opcje do auto rejoin,
+        n- Zaktualizowanie Amogusow do najnowszej wersji,
         <#>,
-        nn<#32CD32><b>Oraz poprawki</b><#000000>,
-        n- Naprawiono chat Jailora,
-        n- Moze naprawiono chaty loversow,
-        n- Update do opisu Auriala dla zmiany dodanej z rok temu...,
-        n- CHYBA naprawiono psujace sie wchodzenie do gry,
-        n- Pomniejszono troche gorna czesc collidera Gianta,
+        nn<#FFD700><b>Zmiany</b><#000000>,
+        n- Usunieto opcje do dawania taskow duchom co runde,
         <#>
       ]
     }
